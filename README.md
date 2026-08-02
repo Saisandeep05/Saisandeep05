@@ -1,81 +1,71 @@
-<div align="center">
-  <h1>Hi there, I'm Sai Sandeep! 👋</h1>
-  <h3>Software Engineer | AI & Machine Vision Specialist</h3>
-</div>
+<h1 align="center">Hi there, I'm Sai Sandeep! <img src="https://media.giphy.com/media/hvRJCLFzcasr14yMyH/giphy.gif" width="30px"></h1>
 
-<div align="center">
+<p align="center">
   <a href="https://github.com/Saisandeep05">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&pause=1000&color=27AE60&center=true&vCenter=true&width=800&lines=Building+Scalable+Software+Solutions;Developing+Intelligent+Computer+Vision+Systems;Passionate+About+Machine+Learning+%26+AI;Passionate+Java+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=27AE60&center=true&vCenter=true&width=800&lines=Software+Engineer+%7C+AI+%26+Machine+Vision+Specialist;Building+Scalable+Software+Solutions;Developing+Intelligent+Computer+Vision+Systems;Passionate+Java+%26+Python+Developer" alt="Typing SVG" />
   </a>
-</div>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Saisandeep05">
+    <img src="https://github-profile-trophy.vercel.app/?username=Saisandeep05&theme=onedark&no-frame=true&no-bg=true&margin-w=15" alt="Saisandeep05 Trophies" />
+  </a>
+</p>
+
+---
+
+### 👨‍💻 A Little About Me
+
+I am a passionate **Software Engineer** and **AI Enthusiast** dedicated to solving complex real-world problems through code. I specialize in building end-to-end applications, from robust backend systems in Java/Python to advanced machine learning and computer vision pipelines.
+
+- 🔭 I’m currently focusing on **Deep Learning**, **Object Detection (YOLOv8)**, and **Generative AI**.
+- 🌱 I’m continually learning and mastering cloud technologies and MLOps.
+- 👯 I’m looking to collaborate on Open Source projects, Machine Vision tools, and impactful AI applications.
+- 💬 Ask me about **Java, Python, Streamlit, or building AI pipelines**.
+- 📬 How to reach me: 
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/your-handle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" /></a>
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,python,cpp,js,ts,html,css,react" />
+  </a>
+  <br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,pandas,docker,aws,linux,git" />
+  </a>
+  <br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,vscode,github,githubactions,postman" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Analytics
 
 <div align="center">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/your-handle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Saisandeep05&show_icons=true&theme=onedark&hide_border=true&title_color=27ae60&icon_color=27ae60&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saisandeep05&theme=onedark&hide_border=true&ring=27ae60&fire=27ae60&currStreakNum=27ae60" width="48%" />
 </div>
-
----
-
-### 👨‍💻 About Me
-
-I am a passionate **Software Engineer** and **AI Enthusiast** dedicated to solving complex real-world problems through code. I specialize in building end-to-end applications, ranging from robust backend systems to advanced machine learning and computer vision pipelines.
-
-- 🚀 Currently focusing on **Deep Learning**, **Object Detection**, and **Generative AI**.
-- 🛠️ Building scalable, high-performance applications with modern frameworks.
-- 💡 Constantly learning and adapting to new technologies to stay at the cutting edge of tech.
-- 🤝 Always open to collaborating on open-source projects or exciting tech ventures!
-
----
-
-### 💻 Tech Stack & Tools
-
-**Languages:**
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
-
-**AI, Machine Learning & Vision:**
-<p align="left">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white" />
-  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-</p>
-
-**Frameworks & DevOps:**
-<p align="left">
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</p>
-
----
-
-### 📈 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saisandeep05&show_icons=true&theme=transparent&hide_border=true&title_color=27ae60&icon_color=27ae60&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saisandeep05&theme=transparent&hide_border=true&ring=27ae60&fire=27ae60&currStreakNum=27ae60" width="48%" />
-</div>
-
 <br>
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saisandeep05&layout=compact&theme=transparent&hide_border=true&title_color=27ae60" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saisandeep05&layout=compact&theme=onedark&hide_border=true&title_color=27ae60" />
 </div>
 
 ---
+
+### 🐍 Contribution Activity
+
 <div align="center">
-  <i>Let's build something amazing together! 🚀</i>
-</div>
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Saisandeep05/Saisandeep05/output/dist/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Saisandeep05/Saisandeep05/output/dist/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Saisandeep05/Saisandeep05/output/dist/github-contribution-grid-snake.svg">
+  </picture>
 </div>
