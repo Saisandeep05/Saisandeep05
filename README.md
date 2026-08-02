@@ -1,10 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Sai%20Sandeep&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%20%26%20Machine%20Vision%20Specialist&descAlignY=55" />
+  <h1>Hi there, I'm Sai Sandeep! 👋</h1>
+  <h3>Software Engineer | AI & Machine Vision Specialist</h3>
 </div>
 
 <div align="center">
   <a href="https://github.com/Saisandeep05">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&pause=1000&color=27AE60&center=true&vCenter=true&width=800&lines=Building+Scalable+Software+Solutions;Developing+Intelligent+Computer+Vision+Systems;Passionate+About+Machine+Learning+%26+AI;Always+Exploring+New+Technologies" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&pause=1000&color=27AE60&center=true&vCenter=true&width=800&lines=Building+Scalable+Software+Solutions;Developing+Intelligent+Computer+Vision+Systems;Passionate+About+Machine+Learning+%26+AI;Passionate+Java+Developer" alt="Typing SVG" />
   </a>
 </div>
 
@@ -31,6 +32,7 @@ I am a passionate **Software Engineer** and **AI Enthusiast** dedicated to solvi
 
 **Languages:**
 <p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
