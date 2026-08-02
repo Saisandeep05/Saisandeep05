@@ -1,14 +1,8 @@
-<h1 align="center">Hi there, I'm Sai Sandeep! <img src="https://media.giphy.com/media/hvRJCLFzcasr14yMyH/giphy.gif" width="30px"></h1>
+<h1 align="center">Hi there, I'm Sai Sandeep! 👋</h1>
 
 <p align="center">
   <a href="https://github.com/Saisandeep05">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=27AE60&center=true&vCenter=true&width=800&lines=Software+Engineer+%7C+AI+%26+Machine+Vision+Specialist;Building+Scalable+Software+Solutions;Developing+Intelligent+Computer+Vision+Systems;Passionate+Java+%26+Python+Developer" alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Saisandeep05">
-    <img src="https://github-profile-trophy.vercel.app/?username=Saisandeep05&theme=onedark&no-frame=true&no-bg=true&margin-w=15" alt="Saisandeep05 Trophies" />
   </a>
 </p>
 
