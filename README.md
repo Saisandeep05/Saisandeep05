@@ -22,6 +22,20 @@ I am a passionate **Software Engineer** and **AI Enthusiast** dedicated to solvi
 
 ---
 
+### 🕸️ Featured Project: [Core Connector](https://github.com/Saisandeep05/core-connector)
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Play_Online-cyan?style=for-the-badge&logo=githubpages)](https://saisandeep05.github.io/core-connector/)
+
+An interactive, Obsidian-style codebase dependency graph tracer and split-screen symbol visualizer.
+
+![Core Connector Tour](https://raw.githubusercontent.com/Saisandeep05/core-connector/main/demo.webp)
+
+* **Interactive Spider-Web Canvas:** Drag nodes and customize physics attraction/repulsion forces.
+* **Side-by-Side Code Tracing:** Click connection links to trace importer-to-imported symbols side-by-side.
+* **2.5D Parallax Parallax Depth:** The canvas tilts dynamically relative to your mouse coordinates!
+
+---
+
 ### 🛠️ Tech Stack & Tools
 
 <p align="center">
